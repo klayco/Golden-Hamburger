@@ -3,7 +3,7 @@
     "document_id": "KMcdY4j7aRrRwLz_w0Ve",
     "original_document_id": "KMcdY4j7aRrRwLz_w0Ve",
     "version": "27",
-    "lastChanged": "1616032243370",
+    "lastChanged": "1616053139094",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -129,6 +129,9 @@
                     ],
                     [
                         "Gold 2"
+                    ],
+                    [
+                        "Gold 3"
                     ],
                     [
                         "Materials"
@@ -2187,6 +2190,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1616053135100335:337114",
+                    "name": "Files\/File151",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -2840,6 +2851,14 @@
                 {
                     "k": "150",
                     "v": "Files\/File150.lsmat"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.lsmat"
                 }
             ]
         },
@@ -3339,6 +3358,10 @@
                     {
                         "k": "1116",
                         "v": "PBR 2.lsmat"
+                    },
+                    {
+                        "k": "1501",
+                        "v": "Gold 3.lsmat"
                     }
                 ],
                 "hashes": [
@@ -3424,7 +3447,7 @@
                     },
                     {
                         "k": "738",
-                        "v": "8b35b1ee17bab65715ad8b33eb7cc0c0"
+                        "v": "5f45b5e39e100311d87286d3ff7e6a8a"
                     },
                     {
                         "k": "1022",
@@ -3725,18 +3748,22 @@
                     {
                         "k": "1116",
                         "v": "125d23886a88a5920d41bb5dfb05e110"
+                    },
+                    {
+                        "k": "1501",
+                        "v": "f1f78949e73902d4fc79b7564c7b047b"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-03-17T18:44:38",
+                        "lastModified": "2021-03-18T00:38:55",
                         "name": "Public",
-                        "hash": "a9584a2e456169c87f74888b3c93748a",
+                        "hash": "ba2dd05088263612db43e8ebc9c07273",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T18:06:05",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Textures",
                                 "hash": "f0b7176690e361ef1a3d86c5e4b09aae",
                                 "children": [
@@ -3800,13 +3827,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T18:11:45",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Tween",
-                                "hash": "f2f1b2831a3099683f54592df38664e1",
+                                "hash": "8999a35f134cb90f5481e87f2ba8b173",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T18:11:45",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "TweenTypes",
                                         "hash": "efbd4545cbfb6cac2aa8a2dcd1e3d109",
                                         "children": [
@@ -3833,7 +3860,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:45",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "Legacy",
                                                 "hash": "95017f52c2e32f68d5b79570b70684bc",
                                                 "children": [
@@ -3885,19 +3912,19 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T18:11:45",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "ExampleResources [REMOVE_ME]",
                                         "hash": "b8458ed579577d12ab4dfd5d72d27c40",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:45",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "Textures",
                                                 "hash": "d1fc457a96aa3082bbd3a8ef3daaad47",
                                                 "children": [
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "TweenImageTextures",
                                                         "hash": "256b1775c79a3f9e9ec85ac29b878ef1",
                                                         "children": [
@@ -3928,7 +3955,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:46",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "Materials",
                                                 "hash": "ee598e0780f879a779d3a0abd28aa4ac",
                                                 "children": [
@@ -3964,7 +3991,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:45",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "Meshes",
                                                 "hash": "26b93da26b65dd34541a3e7e3253f1f1",
                                                 "children": [
@@ -4009,13 +4036,13 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T18:11:45",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Visual Scripting Custom Nodes",
-                                        "hash": "67f841f413f52edbdb29bae361e0f3ac",
+                                        "hash": "f0c9d8791138cc0798f25793ef60ae19",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:45",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "TweenManager Nodes",
                                                 "hash": "88dea01a8c4dc871df6993f775b86b7e",
                                                 "children": [
@@ -4093,13 +4120,13 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2021-03-17T18:11:45",
+                                                "lastModified": "2021-03-17T18:50:42",
                                                 "name": "Tween Nodes",
                                                 "hash": "136f2354f51994b25d452bbaf57aa526",
                                                 "children": [
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Basic Tweens",
                                                         "hash": "bec46d2aa846b54a25f8a4a9ce966122",
                                                         "children": [
@@ -4135,7 +4162,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "EasingFuncs",
                                                         "hash": "96d1fa3f89c7f01f93497b0395fc18d4",
                                                         "children": [
@@ -4227,7 +4254,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Modifiers",
                                                         "hash": "2d3d13e906b9fd6e3c601a7fcac47e7f",
                                                         "children": [
@@ -4298,7 +4325,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Scale",
                                                         "hash": "3d6eb22a445ea93fd82987c5f4c4a2ef",
                                                         "children": [
@@ -4334,7 +4361,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Position",
                                                         "hash": "b2aec9cc1c46bf99e4429e118798deeb",
                                                         "children": [
@@ -4370,7 +4397,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Color",
                                                         "hash": "7f82f6d9796faf69e329a53f2f9c72b5",
                                                         "children": [
@@ -4406,7 +4433,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Rotation",
                                                         "hash": "affe7fb62984e0699adf54169bb4bfcf",
                                                         "children": [
@@ -4463,7 +4490,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2021-03-17T18:11:45",
+                                                        "lastModified": "2021-03-17T18:50:42",
                                                         "name": "Helpers",
                                                         "hash": "b9e04a4e6a4bb086541f6f34c5ce1cc2",
                                                         "children": [
@@ -4501,9 +4528,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-03-17T18:11:44",
+                                                "lastModified": "2021-03-17T18:11:49",
                                                 "name": "All Tween Nodes.lsscript",
-                                                "hash": "c2a8888a81d82a7e8d8d360336b0096a",
+                                                "hash": "5190e26e73244be82a2c443c0a4eeb76",
                                                 "children": ""
                                             },
                                             {
@@ -4540,9 +4567,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T17:59:53",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Materials",
-                                "hash": "c861558318536b5fc52a2db416c616e6",
+                                "hash": "7f4c1cde05ed43f32ce2f23a28be84bf",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -4553,9 +4580,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-02-23T20:14:36",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Graph Matte Shadow.lsmat",
-                                        "hash": "5e07ead751b5961028fc4a199d6deea2",
+                                        "hash": "8b35b1ee17bab65715ad8b33eb7cc0c0",
                                         "children": ""
                                     },
                                     {
@@ -4576,7 +4603,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T17:59:53",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Meshes",
                                 "hash": "e2d4e51e26dd1132bc02b8e47cd840d9",
                                 "children": [
@@ -4612,7 +4639,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T17:59:53",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Scripts",
                                 "hash": "58389254f2fbe11920be41b8005cfaba",
                                 "children": [
@@ -4654,14 +4681,21 @@
                                 "children": ""
                             },
                             {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-18T00:38:55",
+                                "name": "Gold 3.lsmat",
+                                "hash": "f1f78949e73902d4fc79b7564c7b047b",
+                                "children": ""
+                            },
+                            {
                                 "isFolder": "true",
-                                "lastModified": "2021-03-17T17:59:53",
+                                "lastModified": "2021-03-17T18:50:42",
                                 "name": "Red_Panda_FBX [REMOVE_ME]",
                                 "hash": "bcce173f8a3de2fe9e22f636a1fb5458",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T17:59:53",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Textures",
                                         "hash": "805d0ba4e813691f20569c794dc4f0c3",
                                         "children": [
@@ -4697,7 +4731,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T17:59:53",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Materials",
                                         "hash": "cc4abf58c9a8c1022458c02bb24372cd",
                                         "children": [
@@ -4719,7 +4753,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T17:59:53",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Meshes",
                                         "hash": "8b71e1cdd9ecb5e8b5e5f67e096acda3",
                                         "children": [
@@ -4748,7 +4782,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-03-17T17:59:53",
+                                        "lastModified": "2021-03-17T18:50:42",
                                         "name": "Animations",
                                         "hash": "59adb24ef3cdbe0297f05b395827453f",
                                         "children": [
@@ -7649,6 +7683,19 @@
                         "fileId": "149",
                         "originalId": "150",
                         "publicId": "1116",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Gold 3",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "263",
+                        "dependency": "0",
+                        "uid": "1616053135100335:337114",
+                        "fileId": "151",
+                        "originalId": "152",
+                        "publicId": "1501",
                         "source": "",
                         "additional": ""
                     }
